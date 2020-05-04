@@ -3,5 +3,7 @@
 
 int main(void)
   {
+  printf("mike");
   printf("hello");
   }
+hello
